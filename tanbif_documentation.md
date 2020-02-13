@@ -21,7 +21,7 @@ visualize data on Australian plants and animals.
 
 :: Also ALA platform is divided in differnt modules that can work together ,But can also work apart (e.g France team just installed three of them)
 
-<img src="asset/img/modules_overview.jpeg">
+<img src="asset/img/modules_overview.jpeg" width="100%" height="100%">
 
 ## Modules
 
